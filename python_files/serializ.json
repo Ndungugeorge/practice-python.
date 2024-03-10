@@ -1,0 +1,25 @@
+[
+  {
+    "name": "mike",
+    "age": 22,
+    "course": "IT",
+    "units": [
+        "Alx",
+        "DSS",
+        "Data mining",
+        "SQA"
+    ]
+},
+{
+    "name": "George",
+    "age": 21,
+    "course": "IT",
+    "units": [
+        "Alx",
+        "DSS",
+        "Data mining",
+        "SQA"
+    ]
+}  
+]
+
